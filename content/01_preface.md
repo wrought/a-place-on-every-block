@@ -1,5 +1,11 @@
 ## Preface
 
+### Definition
+
+This book is a collaborative effort intended to seed an on-going, open, and multiplicative effort. We seek to leverage digital tools (like [git](http://git.org/), [markdown](http://markdown.org/), [pandoc](http://pandoc.org/), [wordsmith](http://wordsmith.org/), to name a few), network infrastructure (the tubes), and online services. Additionally, we aim to use cultural tools like open licenses, the ethos of good faith collaboration, and a dynamic process that encourages divergence and re-convergence of thought and articulation over various frequencies of time.
+
+### Motivation
+
 This summer I missed a flight. The next connection left from New York the following morning, so I accepted the first leg and arrived in Newark airport some hours later with a day to kill. I grabbed a tram to a train to the subway and popped up in the Upper East side to stay with some cousins. At street-level, with my bags, and the humid warmth, I let myself drift a bit. The visual lines, the proximity, the people. I examined stoops, peeked in shop windows, thought a lot about urban configurations. I noticed the trees lining the sidewalk in this neighborhood had little fences around their plots. When I saw a container of plastic bags at eye-level height with a sign about dog poop, I realized the purpose of these micro-parks. How clever, I thought, and this is a sort of creativity that is conscious of the city's density. My interest was piqued. What other sorts of optimizations and "hacks" are there? What can I observe? 
 
 When I made it to my cousin's place, I ran in to a man painting in the hallway outside the elevator. Another gentleman, older with a beard, stopped at our floor but was continuing down with the lift to the garage in the basement. This painter jumped to help him carry some items, and I heard on the gentleman's return the painter had taken the recycling for him all the way across the garage. The gentleman was visiting family in the building, as was I. Later, I learned from my cousins the painter was the building's superintendant, the "super." His role in the building was to take on up-keep tasks, and for him, to be helpful and curteous to his fellow tenants.
