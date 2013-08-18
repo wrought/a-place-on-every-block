@@ -1,12 +1,16 @@
 ## Preface
 
-*by Matt Senate*
+*A Place on Every Block*
 
 ### Definition
+
+A collaborative book about creative communities, the spaces we require as embodied creatures, and the social place-hood we collectively form. A seed, to become a wiki, based on the journey-as-recipe of Sudo Room, a creative community and hacker space in Oakland, California.
 
 This book is a collaborative effort intended to seed an on-going, open, and multiplicative project. We seek to leverage digital tools (like [git](http://git.org/), [markdown](http://markdown.org/), [pandoc](http://pandoc.org/), [wordsmith](http://wordsmith.org/), to name a few), network infrastructure (the tubes), and online services. Additionally, we aim to use cultural tools like open licenses, the ethos of good faith collaboration, and a dynamic process that encourages divergence and re-convergence of thought and articulation over various frequencies of time.
 
 ### Motivation
+
+*by Matt Senate*
 
 This summer I missed a flight. The next connection left from New York the following morning, so I accepted the first leg and arrived in Newark airport some hours later with a day to kill. I grabbed a tram to a train to the subway and popped up in the Upper East side to stay with some cousins. At street-level, with my bags, and the humid warmth, I let myself drift a bit. The visual lines, the proximity, the people. I examined stoops, peeked in shop windows, thought a lot about urban configurations. I noticed the trees lining the sidewalk in this neighborhood had little fences around their plots. When I saw a container of plastic bags at eye-level height with a sign about dog poop, I realized the purpose of these micro-parks. How clever, I thought, and this is a sort of creativity that is conscious of the city's density. My interest was piqued. What other sorts of optimizations and "hacks" are there? What can I observe? 
 
