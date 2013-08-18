@@ -1,0 +1,236 @@
+These are scenes from my own path to hackerspace-ness, implemented in the format of a text-adventure.
+The idea is that these will be interspersed in what-brought-you-to-sudoroom-marc
+
+
+= The Fluid State =
+
+December, 1998.
+  Socialist europe
+
+"That's right, most of the software is available (at no charge) to anyone with the time and inclination to download it. But not everyone has that much time... Enter Red Hat Software."
+ -- RedHat 5.2 marketing material circa 1998
+
+> look
+
+You are in a loft room, surrounded by the glow of monitors and the humm of old desktop computors. The desks around you are littered with circuit boards, cdroms and various odd printouts. You hunch over the monitor, focused on the command line. You have school tomorrow at 8 am, which gives you 4 hours to figure out this partitioning problem and get dual booting to work so you can begin playing with GNU/Linux.
+
+> run command fdisk -l
+
+Disk /dev/hda: 20 GB, 21474836480 bytes
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sda1            2048      499711      248832   83  Linux
+/dev/sda2          501758   625141759   312320001    5  FAT32
+/dev/sda3          501760   625141759   312320000   83  Linux
+
+> ask for help
+
+There is no-one else in the room.
+
+> ask for help online
+
+You are now connected to IRC.
+
+June, 1999
+  Somewhere in the Danish public school system
+
+"Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong."
+  -- from The Cathedral and the Bazaar by Eric S. Raymond
+
+> look
+
+You are a nervous 15 year old. You find yourself standing at the whiteboard in front of a class of middle schoolers. Two adults lurk in the back. You seem to be presenting your final exam project. 
+
+> say: Distributions such as RedHat or Debian GNU/Linux are entire free and open source operating system, consisting mostly of software written by volunteers, hackers, from across the world collaborating online. Most of the web servers in the world are running an open source web server: Apache.
+
+The two teachers thank you for you presentation. The big friendly one responds with enthusiastic appreciation for new facts learened. The other one is scowling, his thick eyebrows straightening in imitation of his bushy mustache. He doesn't believe you. It doesn't make any sense. Why would people just give their work away on that scale? At best you are grossly exaggerating. 
+
+Summer, 2000 
+
+“How long do you want these messages to remain secret? [...] I want them to remain secret for as long as men are capable of evil."
+  -- Cryptonomicon by Neal Stephenson
+
+<scene with teenage marc excitedly showing friend van eck phreaking>
+
+> say: Van Eck Phreaking! Neal Stephonson wrote about this in Cryptonomicon, and I didn't think it was real. No way. But it's true. It _actually_ works! An unprotected computer, and that means any computer the two of us have ever used, emits electromagnetic noise from its monitor, and that noise can be picked up from a distance and reconstructed back into the image on the screen, and this was invented in _1985_!
+
+Your friend agrees that it's pretty crazy, but doesn't see why it should concern you. Surely only governments and professional spies use equipment like that, and not to listen in on a couple of teenagers.
+
+> browse http://cryptome.org
+
+Link: The Tempest over Leaking Computers 
+
+In the spring of 1985 [...] BBC's "Tomorrow's World" ran a five-minute demonstration on television. [...] the program showed a long shot of a van parked in front of a building in London and faded to a close-up inside the van where a document was displayed on a television screen. [...] The London building in front of which the van was parked was New Scotland Yard. 
+
+Anyone can put together a primitive eavesdropping unit for somewhat over $100. All you need is a portable television set with a voltage-controlled oscillator (VCO) tuner [...] a dipole antenna [..]
+
+February, 2003
+  Silicon Valley
+
+"<quote from programmers at work>"
+
+> look
+
+You are sitting at a desk littered with cans of mountain dew and bags of doritos laptop. In the middle of the mess sits a worn-looking 12 inch laptop (bought used from an auction company that specializes in liquidating failed startups). You seem to be in the middle of writing some complicated-looking javascript.
+
+> use laptop
+
+All of the lights go out and the room becomes eerily quiet as everything except the laptop powers down. Your laptop notifies you that your wifi connection is down.
+
+> fix wifi
+
+You find a fellow programmer and together you hook up a car battery to the DSL modem and wifi access point. You wait expectantly for the modem to finish booting and re-establish a connection. It doesn't work. Whatever is at the other end of the DSL line must not have battery backup.
+
+You are offline.
+
+> fix internet connection
+
+The power to fix the internet connection lies solely with the ISP and power company. You have been cut off from your tribe. You realize that you are blocked from any attempts at fixing the problem because your only means of communication are owned by organizations that do not share your values. You feel disempowered.
+
+> mental note: If and when the Internet comes back up. Investigate solar-powered long-range wifi connections.
+
+
+Fall, 2005
+  Technical University of Denmark
+
+> look
+
+You are in large room full of desktop computers in various states of disarray and disassembly. Small groups of nerdy-looking fellows are crowded around some of the computers. Most are engaged in some form of discussion, either with each other or the computers. The chatter seems to be centered around linux drivers, network setups, filesystem partitioning and compiling kernels. 
+
+You seem to be in the process of putting up a banner.
+
+> look at banner
+
+The banner reads: "DTU Linux User Group Install Fest".
+
+A greasy-looking teenager is holding a cdrom with "Debian Netinstall" written on it. He looks like he's trying to get your attention. 
+
+Summer, 2006
+  Somewhere in Denmark
+
+> look
+
+You are seem to be inside a small, dark, green, metallic-looking room. The ceiling is too low and the floor is made entirely of pieces of various electronic junk. The only source of light appears to be emanating from your forehead.
+
+> inspect junk
+
+You move the junk around, scraping you hand in your scramble for new footing when the perturbations trigger a minor junkslide. The scrape is minor but the noise that reverbarates through the metal is not. You find a stash of dumb terminals with flash memory drives. They look like they're capable of running linux. You stash them in your backpack.
+
+> exit
+
+You turn off your headlamp and climb out of the electronics recycling dumpster. You appear to be inside a fenced recycling facility. It is night. The air is thick with fog.
+
+> exit
+
+You jump the fence. A pair of rollerblades are leaning against the outside of the fence.
+
+> use rollerblades
+
+You strap on the rollerblades and begin skating away. Just as you are about to turn out of sight of the recycling station, you see a police cruiser turn off the main road and head towards the station. You pick up speed.
+
+Summer, 2007 
+  An ex-soviet airbase in Finowfurt, Germany
+
+"<quote from in fairy dust we trust>"
+
+<Marc at CCCamp at night, drunk on his newfound tribe>
+
+Winter, 2007
+  Vordingborg, Denmark
+
+"Biological engineering does not have to be confined to the laboratories of high-end industry laboratories. Rather, it is desirable to foster a more open culture of biological technology"
+  -- Excerpt from 2007 Chaos Communications Congress talk by Drew Endy
+
+> look
+
+Your are staying at your parents house for christmas vacation. Parts of you are seated at a desk, staring at a monitor. Your ears, eyes and mind are at the 27th Chaos Communications Conference in Berlin. Drew Endy, a researcher from MIT, is giving a talk on synthetic biology titled "Hacking DNA". He is talking about DNA almost as if it's just another programming language. The talk finishes and the audience begin to ask questions. You mute the audio and just sit there for a bit. You realize you need to learn a new programming language.
+
+> write email 
+
+  To: endy@mit.edu
+  Subject: Synthetic Biology
+
+  [...] I just finished watching the stream of your lecture at CCC. [...] Hacking biology, is what I want to do [...]
+
+  [...] I really don't know how to get to a point where I can begin helping out with the synthetic biology effort.
+
+> check email
+> check email
+> check email
+
+1 new email(s):
+
+  From: endy@mit.edu
+  Subject: Re: Synthetic biology
+
+
+Summer, 2008
+  A molecular biology laboratory
+
+"<scene in a lab, transforming bacteria>"
+
+
+Summer, 2008
+  Copenhagen, Denmark
+
+"<scene at a meeting of hacklab forking / quote from email>"
+
+December, 2009
+  Copenhagen, Denmark
+
+"<quote from labitat.dk announcement of new space>"
+
+
+Summer, 2013
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= AFK =
+
+My personal journey into hackerspace culture began at the 2007 Chaos Communications Camp in the small town of Finowfurt, near Berlin, Germany.
+
+CCCamp is an an outdoor hacker camp and conference held every four years at an old russian airbase, now functioning as an outdoor aviation museum. CCCamp is organized by the Chaos Computer Club and volunteers from various other groups, including members of c-base, one of the world's oldest hackerspaces.
+
+Like many, I came to CCCamp having already participated in hacker community in culture for years. Having grown up on Neal Stephenson's cyberpunk fiction, and essays on free software and free culture by writers such as Richard Stallman and Eric S. Raymond, I started seeking out like-minded communities which at the beginning of the millenium in tiny Denmark meant joining up with local Linux User Groups. These LUGs existed, and in some cases still exist, as weekly or monthly meetups with associated mailing lists and irc chat rooms where people provided mutual assistance and socializing around running and experimenting with GNU/Linux based operating systems and free software in general.
+
+While CCCamp started in 1999, the 2007 event was in many ways the spark that ignited the explosion of new hackerspaces across the world. 
+
+TODO talk about Nick Farr and Mitch Altman and the U.S. hackerspaces boom.
+
+http://events.ccc.de/camp/2007/Fahrplan/events/1934.en.html
+
+The term "hackerspace" seems to have been coined at some point in 2008 [1], though several spaces that now describe themselves as hackerspaces predate the term.
+
+
+
+
+
+
+[1] Interview with Mitch Altman in Founding a Hackerspace by Joseph
+Schlesinger http://www.wpi.edu/Pubs/E-project/Available/E-project-122210-154836/unrestricted/Founding_a_Hackerspace.pdf
+
+
