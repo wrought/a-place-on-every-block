@@ -2,7 +2,7 @@
 
 #### Initially
 
-I was at Science Hack Day 2011 in San Francisco, working on a software project. My friend, Jacob Shiach, looked over to me and said ["What if you could do this every day?"](http://www.brightworkcoresearch.com/brightwork-coresearch-is-launching-in-houston/) There were groups working on all sorts of projects: hardware, software, data and more. I was unemployed at the time so I said that sounded pretty good.
+I was at Science Hack Day 2011 in San Francisco, working on a software project. My friend, Jacob Shiach, looked over to me and said something like ["What if you could do this every day?"](http://www.brightworkcoresearch.com/brightwork-coresearch-is-launching-in-houston/) There were groups working on all sorts of projects: hardware, software, data and more. I was unemployed at the time so I said that sounded pretty good.
 
 He was looking at local funding, grant applications, foundations. Jacob and I had talked about several projects in open science and citizen science. We were interested in alternatives to existing institutions that would provide infrastructure, be decentralized, and enable coordination to address humanity's greatest (or most ignored) problems&mdash;all in the open.
 
