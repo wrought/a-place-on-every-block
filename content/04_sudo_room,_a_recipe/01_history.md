@@ -1,0 +1,14 @@
+# History
+
+...
+
+We set out doing research, making contacts, and establishing a weekly meetup. Our first official, open meetup was held at Caffe Mediterraneum in Berkeley, a personal haunt of mine (and many before me) from my days around Berkeley and at the University of California. We held a few more meetups at Caffe Med or "The Med" as it is affectionately known. Finally, one week, our meetup convened at Radio, a bar in downtown Oakland, to be nearby to join Anca Mosoiu at Tech Liminal for their Winter Holiday party, to which we were invited. Tech Liminal is a technology salon and co-working space, where Anca especially targets open source tools and non-traditional business development, such as businesses owned and run by women and people of color. After some conversation, Anca offered to host us to coincide with their weekly Wednesday hack night.
+
+Jacob lives in Texas, so while his in-person involvement was brief, he continued to support the project online, working with me in particular for many months as we first got the meetup off the ground. He followed along on the email list, updated a collaborative document with links, and offered moral support. At the same time, his own project, [BrightWork CoResearch](http://brightworkcoresearch.com/) began to unfold.
+
+The name "sudo room" is based on the Linux `sudo` command, which means "super user do." `sudo` allows the user to act as the super user, or `root` account. There is a running joke online that `sudo` has real-world applications beyond the shell, as [XKCD demonstrates](http://xkcd.com/149/). Sudo room's name stuck as a literal interpretation: an attempt to run the "room" command as the super user; a command to create the room itself. However, it was originally formed as a remix on the name of [Hacker Room](http://hackerspaces.org/wiki/Hacker_Room) a co-working and community space in Mexico City. I spoke with one of the co-founders about how they started; I was very curious about how to get such places off the ground. He said he found a few folks who were interested in making it happen, they began to pool some money together, and finally started looking at listings for offices in their price range. Simple as that, just find the space and start paying.
+
+Ultimately, Jenny Ryan inspired an alternative interpretation that felt profound: in sudo room, everyone who walks in is a `sudoer` or *super user*, they have root access, and they are permitted to *do*. It reminded me of [some mythology surrounding Plato's Academy](http://plato-dialogues.org/faq/faq009.htm), which claims that inscribed above the entrance was, "Let no one ignorant of geometry enter." Instead of qualification, we turned this on its head&mdash;there are no qualifications beyond your own creativity and imagination, in fact, you get `root` to the space when you enter.
+
+...
+
