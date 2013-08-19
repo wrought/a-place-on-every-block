@@ -4,7 +4,7 @@
 
 ### Definition
 
-A collaborative book about creative communities, the spaces we require as embodied creatures, and the social place-hood we collectively form. A seed, to become a wiki, based on the journey-as-recipe of Sudo Room, a creative community and hacker space in Oakland, California.
+A collaborative book about creative communities, the spaces we require as embodied creatures, and the social place-hood we collectively form. A seed, to become a wiki, based on the journey-as-recipe of [Sudo Room](http://sudoroom.org/), a creative community and hacker space in Oakland, California.
 
 This book is a collaborative effort intended to seed an on-going, open, and multiplicative project. We seek to leverage digital tools (like [git](http://git.org/), [markdown](http://markdown.org/), [pandoc](http://pandoc.org/), [wordsmith](http://wordsmith.org/), to name a few), network infrastructure (the tubes), and online services. Additionally, we aim to use cultural tools like open licenses, the ethos of good faith collaboration, and a dynamic process that encourages divergence and re-convergence of thought and articulation over various frequencies of time.
 
