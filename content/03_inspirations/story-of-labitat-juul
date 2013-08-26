@@ -1,0 +1,80 @@
+
+
+Labitat started as a weekly meeting organized by a small group of people who had an interest in IT and politics surrounding IT and often both. The meetings took place at the offices of the national IT union where one of the founding members had a student job. As this location was dependent on that one person being able to make it to meetings, we began switching between locations including a local anarchist space, various cafes, nearby univisities and common spaces in student housing. We used a 3G internet to wifi router (new and fancy at the time) in places where wifi was not availble, to ensure that work could be accomplished at the meetings. 
+
+The meetings began in early 2009 (todo verify) with the upcoming hackerspace tentatively named hacklab. During some of our IRC discussions I realized that the group included people who seemed to have ideas and plans that are generally associated with black hat hacker or black block anarchist groups, including such activities as politically motivated defacement of websites and mass leaks of individuals private data from insecure websites. I became concerned that our hackerspace would have to deal with problems related to illegal or unethical behaviour and after some discussion with other members decided to announce a fork of the effor to start a hackerspace, where the hackerspace organization itself would officially take no overtly or at least traditional party-political stance and would not allow illegal acts. The idea being not to keep political activites out of the space, but to have any political activism or activities of questionable legality be the action of groups that just happened to use the hackerspace, as a kind of legal insulation that would hopefully keep the hackerspace running smoothly in the event of criminal investigations. Almost all of the people attending the original hacklab meetings ended up coming to the hacklab.fork() meetings, and hacklab.fork() gained its official name of Labitat over the next months. 
+
+Unfortunately, it seems that some of the more interesting people with strong opinions on digital privacy and freedom of information (positions that I generally support), stopped showing up, and this helped shaped the culture of Labitat in ways that I feel have largely been negative, detracting from the diversity of the people who use the hackerspace. Though I felt that the fork was not especially controversial at the time, I now feel that it was a mistake, and that the hackerspace would likely have been more interesting and diverse, as well as a more effective environment for the improvement of social justice, had I not initiated the fork. Perhaps my own ego is showing here, in that I am to some degree taking personal responsibility for shaping the culture of the large group of people that make up a hackerspace, but I feel that this one move of declaring a "non-political" fork early on really had a lasting detrimental effect. It would be years before an effective political hacker group would exist in Denmark. Such a group emerged in (TODO year?) as the BitBureau, founded by five people, three of whom were co-founders of Labitat, and taking its inspiration from projects such as the U.S. EFF and the French La Quadrature (TODO ask Panton). I should mention that these three co-founders of the BitBureau were also instrumental in founding Labitat and building out the infrastructure in the early days.
+
+= Organization and structure =
+
+Labitat became an official organization on June 14th 2009 as a so-called "Forening" which translates roughly to a U.S. incorporated voluntary association. Fortunately it is very simple to create such a structure and the bylaws were hashed out and agreed upon at a single meeting (TODO check). We simply took a minimal set of bylaws from a different organization and rewrote a few key sections to suit our needs. Several of the co-founders, including myself, resisted using this type of structure, as it creates a hierarchy between a board of directors and a few individuals and puts the financial responsibility on this board of directors. However, it turns out that you cannot get a bank account and will have trouble finding renting space if your organization doesn't have a structure like this. Our solution was to agree that this structure would not influence the day to day running of the organization, which would be non-hierarchical and participatory, and put in safeguards to allow the membership to change the bylaws and board of directors with 2/3 vote for any reason. Labitat has several guidelines but only one rule:
+
+  Rule 0: Don't act in a way that requires us to create a new rule. 
+
+Some of Labitat's guidelines are:
+
+  Guideline 0: Membership is free, but to use Labitat you must contribute to Labitat. 
+
+Guideline 0 includes some elaboration:
+
+"The obvious way to contribute is, to give a donation to get "24/7 door access". This will help us pay the rent and other bills."
+
+"The simplest way to contribute, is to show up and share your thoughts and ideas with everyone, or help someone else with solving a problem or help them get one step further in their project."
+
+Some more guidelines:
+
+The 48 hour rule: If you need permission, ask on the mailing list and wait 48 hours for objections or general consensus. If there are no objections, you can assume you have the go-ahead.
+
+The 2 minute rule: If it can be done within the next two minutes - Do It NOW. Should not be applied to non-reversible actions. Permanent changes should always consider consensus. 
+
+Those who do, decide: In general, the members who are more active are the members who get to make decisions.
+
+When deciding, trust users to follow Rule 0: Many of the proposals for new systems/ways of doing/etc in Labitat have included a lengthy discussion about "What if user X does this and that? Then the system will fail." Try to consider how much time we spend securing against ourselves, and (if possible) spend that time being awesome instead. 
+
+Release early, release often: If you're working on some project for the benefit of all of Labitat, release it as early as possible. Don't let considerations like "Hm, I should link this up with the universal Labitat member database" hold you back from releasing the first version without that kind of support. Perhaps a crippled/broken version in the wild would encourage more active development than a crippled/broken version only accessed by you. 
+
+Don't nitpick: Getting stuff done is more important than perfection. Content is more important than style and formatting. Don't start discussions unless it's actually important. 
+
+One name: Try to use the same name everywhere (wiki, irc, mail, etc.) so people can recognize you. 
+
+Hygiene: We are a lot of people sharing the same space so it is important to keep a certain standard of hygiene. Labitat is fully equipped with a shower, a washing machine and a dryer, all in the bathroom. We also have spare t-shirts in most sizes graciously donated by DKUUG (LinuxForum and OpenSourceDays t-shirts).
+
+None of these are especially novel. Most of these rules were re-used and remixed from other organizations.
+
+= Pre-space period =
+
+Before Labitat got a space, garnering and keeping momentum required somewhat more effort. There were two factors that conspired to make this a lot of work for a small number of people. First, the number of people who were dedicated enough to take personal responsibility for ensuring that things moved forward every week was small. Second, the amount of initial work was high and largely intangible: Writing meeting announcement emails, selecting meeting locations, ensuring wifi connectivity at the location, setting meeting agendas, ensuring that forward momentum was maintained by assigning action items and checking in on the progress. Writing out the requirements for a physical space, getting people to search for and visit potential spaces, researching the legal, business and financial requirements and agreeing on how the space was going to organize itself. For me, most of these things were not especially satisfying things to work. At the end of the day there is nothing you can look at and say "I made this", but the amount of time invested was high and like most people I had both other projects and a full time activity (graduate studies) to worry about. 
+
+During the pre-space period, I felt that there was a danger that we were scaring away potential members by focusing almost entirely on bureaucracy and organization, and not enough on hacking. One of the things we did to organize this was a one-day digital electronics workshop that took a group of about 20 people from almost zero knowledge about electronics and taught them to build and program a small Arduino-based electronics kit that we especially designed for this purpose (TODO link). To run the workshop, we got a grant of about $2000 from a local government organization dedicated to small grants and a fast turnaround time for youth culture and amateur projects. The idea was that the kit would be a teaching platform for a series of workshops that would get people excited about the upcoming hackerspace, and that the tools purchased for the workshop would become part of the hackerspace inventory. The second workshop in the series ended up getting delayed, and about two months after the first workshop we had a physical space. The result was the tools ended up becoming a valuable part of the hackerspace, but this specific workshop series never continued.
+
+One of the difficult parts of this period was when the meeting activity slowed down to a point where only three or four people showed up for a few weeks over the summer. This was discouraging, as I had hoped that some of the students would have more time and energy to help out when they didn't have to focus on their studies. After some years of being part of the hackerspaces community and talking to other space hackers, it seems that a slowdown in activity over the summer is a general trend, at least for the western spaces.
+
+I have never been part of starting a hackerspace where the physical location is available from day one, but I expect that it would be somewhat more satisfying, as work can be split more easily between hacking projects, physical infrastructure projects, and the more abstract and organizational.
+
+= Insurance =
+
+Labitat has no insurance. There. I said it. If someone ever sues Labitat, the board of directors may be totally screwed. Labitat still does not seem to have trouble finding people willing to be on the board of directors.
+
+= Getting and funding the space =
+
+Labitat found a space in late October 2009. The space was and is a 200 square meter basement with some daylight, and included a kitchen and a bathroom with shower and hookups for a washer and dryer. The floors were pretty raw, being untreated concrete, and one room had a wooden floor with rotten insulation that had somehow gotten gotten wet. Apart from that, the walls needed some paint and the available electrical situtation was less than we had wanted. However, the rent was low and the situation pretty central in Copenhagen, with available free street parking.
+
+The main challenge in securing the space was the required deposit of 6 months rent. We solved this by going around to members and friends of members and asking for no-interest time-unlimited loans for as much as people were willing to supply. To the lenders we issued simple contracts written up by our own unlawyered selves, stating that Labitat would begin paying back the loans as soon as the organization began having more income than was necessary to cover the monthly rent, utilities, internet, insurance and necessary maintenence of the space. The contracts were signed by the director and chief financial officer of Labitat. We gathered about 7000 USD from 17 people, individual loans ranging from about $300 to $1500. 
+
+Labitat was able to officially rent the space starting December 2009. The loans were gradually paid back with priority given to those lenders that requested it. The final loan was paid back on March 26th 2013.
+
+The space was and is funded entirely by membership fees of about 27 USD per member per month (150 DKK). Membership to Labitat is free, but paying a fee of about 27 USD per month guarantees you 24/7 access to the space. It is possible to get 24/7 access to the space without paying, but that requires negotiating with the members at the weekly meeting and has seldom been asked for. Membership officially gives you the ability to vote on mayor decisions such as changing the bylaws, but this is ignored in the day to day running of the space and the bylaws have never had been changed. 
+
+Important decisions are made in an ad-hoc fashion during the weekly meetings or on the mailing-list. The ad-hoc process involves open discussion, straw polls and informal consensus. 
+
+Serious conflict or strong disagreements in Labitat have luckily been very rare, perhaps owing to what could be described as a strong monoculture both in Denmark in general and in the hackerspace specifically, and to the long training in collaboration that is part of public education and Danish society in general.
+
+= Building infrastructure =
+
+
+
+= Dealing with incoming and outgoing equipment =
+
+= Lack of diversity =
+

@@ -1,0 +1,61 @@
+
+This is a work in progress. It is an attempt to describe my own search for community around tech and creativity, beginning with lan parties, through cracking/demoscene, LUGs, CCC, Labitat and sudo room and people's wifi.
+
+= Search for community =
+
+Ever since I started playing around with computers I have sought some form of community as part of the process. When I was very young, this meant gaming, and community manifested in the form of LAN parties and later in the online chat systems built into some internet-enabled multiplayer games. For a brief time I was fascinated by the cracking scene and by the demoscene. The demoscene is a community built around the competitive creation of beautiful non-interactive graphics and/or music created entirely by writing computer code, often with tight restrictions on either the size of the program or the power of the computer running the program (the Commodore 64 is still a popular platform for demos). The demoscene originally grew out of the ever-more elaborate intro screens that cracking groups would append to the beginning of their cracked releases of games and applications to showcase their skill, eventually splitting off into a separate entity that ignores the cracking all-together.
+
+In 1999 I attended The Party: A demoscene event with over three thousand participants who all lugged their computers to a single location for a few days of competition and socializing. I was curious to learn how to write code that could result in such beautiful images and patterns, and to expand my at the time limited knowledge of programming and math. Alas, I found the demo scene hard to penetrate. I was disappointed to realize that many of the people attending The Party were only there for the illegal file sharing or LAN gaming, and as spectators. On top of that, none of the people I talked to seemed especially interested in helping me get started, and I quickly became frustrated with the competitive nature of the demo scene, where source code and documentation more often than not were treated as secrets only to be shared within groups so as not to give the competing groups an advantage. This is especially interesting given the mostly non-commercial nature of the scene (a few of the bigger competitions did have sizable cash prices). The cracking scene suffered from the same flaws, though information on how to crack seemed somewhat more easily accessible, perhaps stemming from the uniting effects of a common enemy in form of the application developers and their anti-cracking efforts. In 1999 the demo scene was fading, and while it is still going strong in some places today, many demo groups have now dissolved and The Party was last held in 2002. Cracking, while somewhat more accessible, had little room for creative output, apart from the intro demos, and never held my attention for very long. Amidst my frustrations with the lack of opennes and the vaguely depressing nature of getting involved with what felt like a dissolving community, I had been experimenting with running RedHat GNU/Linux, and soon found myself spending many frustrating and delighting hours becoming familiar with the GNU/Linux command line.
+
+= Free Software and the GNU =
+
+<scene: redhat install>
+
+In interacting with the free software community, I was delighted to have access to not just the source code, but also documentation, and a flourishing online community of people willing and able to help whenever I ran into a problem I couldn't solve. I learned to program by reading books and tutorials, but I learned how not to suck at programming by reading code written by better programmers.
+
+Even though I found welcoming communities for Free Software online, growing up in a small village in Denmark in the 90's meant that actual IRL (or AFK if you prefer) community with an interest in creative endeavours involving computers, let alone free software, was hard to come by.
+
+I had a couple of friends in middle school who were interested enough to spend long nights playing with Linux networking, compiling kernels or trying to learn shell scripting and HTML. We would help each-other in our attempts at using and modifying GNU/Linux, but it was a tiny loose-knit group and no-one else seemed very interested in creative collaboration on my (often overly) ambitious project ideas.
+
+At this time, real-life community around free software usually took the form of the Linux User Group, or LUG. A few of us attempted to start a local LUG, the closest existing LUG being over two hours away by public transportation, but there was little interest and the Southern Denmark LUG never went very far.
+
+--- begin finding hacker culture
+
+<scene: the cathedral and bazaar>
+
+
+I felt like I had found my tribe. Problem was: It only existed online.
+
+--- end finding hacker culture
+
+Skip to 2005 at the University of Denmark where I joined the University LUG. It was small, but consistently meeting and socializing once a week, with occasional larger events such as Linux Install Fests or talks attracting a bigger crowd. At the LUG I greatly enjoyed the opportunities for experience sharing and discussion around topics such as free software and hacker ethics, IT security, sowftare development and fairly high-level technical discussions. The LUG was limited in that collaboration generally only happened around the running of the group, organizing of events, or the IT infrastructure necessary for these goals. 
+
+In the summer of 2007, some of my friends from the University LUG heard about a big hacker event held near Berlin, Germany. It was organized as a campout with talks and workshops held over a four day period. Lured in by the combination of outdoor camping, hacking and an interesting talk schedule, a few of us decided to go.
+
+-- begin CCCamp 07 experience
+
+<scene: cccamp 07>
+
+-- end CCCamp 07 experience
+
+When I got back from CCCamp I was still drunk on the feeling of community, and of belonging that CCCamp had engendered. High on the experience I began organizing workshops on (in my opinion) interesting new topics in hacking, free software and the web, with the intent of recruiting people for formation of a hackerspace or something like it. Although these events were held and advertised at a large engineering University attendence was weak and I got discouraged and after a few such events, stopped trying. In retrospect, the University as a poor choice of location, being only technical and somewhat removed from the center Copenhagen proper. The events advertised were of a technical nature only, and the target audience mostly people who already spent most of their lives on their own technical studies or research. Worst of all, I never actually advertised any of the events as a meetup to start a hackerspace. There were a couple of reasons for this. First and foremost I simply didn't feel like starting a real physical hackerspace was something I or we could just do. We'd have to lead up to it, surely, by finding enough people who would be interested and deciding together that you were going to get a physical space once you'd reached a physical space. Secondly, the term hackerspace simply hadn't been coined yet and so few of them existed that almost no-one knew about them. You had to start at ground-zero by explaining what you were even talking about and why hacking activities would need permanent physical spaces. 
+
+In 2008 I found a group in Copenhagen that was meeting every week with the explicit purpose of starting a hackerspace. The group was small, but included people who were used to taking direct action to effect societal change, such as political activist organizers, anarchists and independent journalists.
+
+TODO a bit more about the beginning of Labitat
+
+TODO setting up payment system
+
+
+
+
+-- TODO begin mesh project
+
+<scene: silicon valley wifi>
+
+talk about the mesh
+
+
+-- TODO end mesh project
+
+-- TODO Talk about some of the abstracts. How the ability or inability to think and talk about concepts affects what you are able to do. E.g. the ability to think about the hackerspace as a type of commmons and the success of the hackerspace movement makes it easier to think "i wonder if we could have a commons network infrastructure", even though some of the basic idea had already occurred to me.

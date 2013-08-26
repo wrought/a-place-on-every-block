@@ -1,0 +1,5 @@
+final/*.epub
+final/*.mobi
+final/*.pdf
+*.swp
+.DS_STORE

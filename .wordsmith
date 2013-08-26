@@ -1,0 +1,7 @@
+---
+edition:    0.1
+language:   en
+author:     Anthony DiFranco; Marc Juul; Marina Kukso; Jenny Ryan; Matt Senate
+title:      A Place on Every Block
+cover:      assets/images/cover.jpg
+stylesheet: assets/stylesheets/default.css
